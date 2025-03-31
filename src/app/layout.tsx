@@ -1,23 +1,27 @@
-import { Footer, Layout, Navbar } from 'nextra-theme-docs'
-import { Banner, Head } from 'nextra/components'
-import { getPageMap } from 'nextra/page-map'
-import 'nextra-theme-docs/style.css'
- 
+import { Footer, Layout, Navbar } from "nextra-theme-docs";
+import { Banner, Head } from "nextra/components";
+import { getPageMap } from "nextra/page-map";
+import "nextra-theme-docs/style.css";
+
 export const metadata = {
   // Define your metadata here
   // For more information on metadata API, see: https://nextjs.org/docs/app/building-your-application/optimizing/metadata
-}
- 
-const banner = <Banner storageKey="some-key-1">測試中 🎉</Banner>
+};
+
+const banner = <Banner storageKey="some-key-1">測試中 🎉</Banner>;
 const navbar = (
   <Navbar
     logo={<b>程式貓開源</b>}
     // ... Your additional navbar options
   />
-)
-const footer = <Footer>Copyright © 2024-2025 CodeCat team.</Footer>
+);
+const footer = <Footer>Copyright © 2024-2025 CodeCat team.</Footer>;
 
-export default async function RootLayout({ children }: { children: React.ReactNode }) {
+export default async function RootLayout({
+  children,
+}: {
+  children: React.ReactNode;
+}) {
   return (
     <html
       // Not required, but good for SEO
@@ -45,5 +49,5 @@ export default async function RootLayout({ children }: { children: React.ReactNo
         </Layout>
       </body>
     </html>
-  )
+  );
 }
