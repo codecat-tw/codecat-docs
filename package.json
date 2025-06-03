@@ -10,23 +10,23 @@
     "format": "prettier --write ."
   },
   "dependencies": {
-    "next": "^15.2.4",
-    "nextra": "^4.2.16",
+    "next": "^15.3.3",
+    "nextra": "^4.2.17",
     "nextra-theme-docs": "^4.2.17",
     "react": "^19.1.0",
     "react-dom": "^19.1.0"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3.3.1",
-    "@tailwindcss/postcss": "^4.0.17",
-    "@types/node": "^20.17.28",
-    "@types/react": "^19.0.12",
-    "@types/react-dom": "^19.0.4",
-    "eslint": "^9.23.0",
-    "eslint-config-next": "15.2.2",
+    "@tailwindcss/postcss": "^4.1.8",
+    "@types/node": "^20.17.57",
+    "@types/react": "^19.1.6",
+    "@types/react-dom": "^19.1.5",
+    "eslint": "^9.28.0",
+    "eslint-config-next": "^15.3.3",
     "prettier": "^3.5.3",
-    "prettier-plugin-tailwindcss": "^0.6.11",
-    "tailwindcss": "^4",
-    "typescript": "^5.8.2"
+    "prettier-plugin-tailwindcss": "^0.6.12",
+    "tailwindcss": "^4.1.8",
+    "typescript": "^5.8.3"
   }
 }

@@ -1,3 +1,3 @@
 export default function Home() {
-  return <div className=""></div>;
+  return <div className="">編寫中</div>;
 }
