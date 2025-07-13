@@ -2,6 +2,7 @@ import { Footer, Layout, Navbar } from "nextra-theme-docs";
 import { Banner, Head } from "nextra/components";
 import { getPageMap } from "nextra/page-map";
 import "nextra-theme-docs/style.css";
+import "./globals.css";
 
 export const metadata = {
   // Define your metadata here
@@ -11,7 +12,7 @@ export const metadata = {
 const banner = <Banner storageKey="some-key-1">測試中 🎉</Banner>;
 const navbar = (
   <Navbar
-    logo={<b>程式貓開源</b>}
+    logo={<b>程式貓文件中心</b>}
     // ... Your additional navbar options
   />
 );
@@ -41,7 +42,7 @@ export default async function RootLayout({
           banner={banner}
           navbar={navbar}
           pageMap={await getPageMap()}
-          docsRepositoryBase="https://github.com/shuding/nextra/tree/main/docs"
+          // docsRepositoryBase="https://github.com/shuding/nextra/tree/main/docs"
           footer={footer}
           // ... Your additional layout options
         >
