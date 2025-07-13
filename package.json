@@ -1,5 +1,5 @@
 {
-  "name": "codecat-opensource",
+  "name": "codecat-docs",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -10,7 +10,7 @@
     "format": "prettier --write ."
   },
   "dependencies": {
-    "next": "^15.3.3",
+    "next": "^15.3.5",
     "nextra": "^4.2.17",
     "nextra-theme-docs": "^4.2.17",
     "react": "^19.1.0",
@@ -18,14 +18,14 @@
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3.3.1",
-    "@tailwindcss/postcss": "^4.1.8",
-    "@types/node": "^20.17.57",
-    "@types/react": "^19.1.6",
-    "@types/react-dom": "^19.1.5",
-    "eslint": "^9.28.0",
-    "eslint-config-next": "^15.3.3",
-    "prettier": "^3.5.3",
-    "prettier-plugin-tailwindcss": "^0.6.12",
+    "@tailwindcss/postcss": "^4.1.11",
+    "@types/node": "^20.19.7",
+    "@types/react": "^19.1.8",
+    "@types/react-dom": "^19.1.6",
+    "eslint": "^9.31.0",
+    "eslint-config-next": "^15.3.5",
+    "prettier": "^3.6.2",
+    "prettier-plugin-tailwindcss": "^0.6.14",
     "tailwindcss": "^4.1.8",
     "typescript": "^5.8.3"
   }
