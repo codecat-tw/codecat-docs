@@ -9,7 +9,11 @@ export const metadata = {
   // For more information on metadata API, see: https://nextjs.org/docs/app/building-your-application/optimizing/metadata
 };
 
-const banner = <Banner storageKey="some-key-1">測試中 🎉</Banner>;
+const banner = (
+  <Banner storageKey="tsw-1">
+    台域戰策 - 一款關於台灣的占地遊戲 上線啦！ 🎉
+  </Banner>
+);
 const navbar = (
   <Navbar
     logo={<b>程式貓文件中心</b>}
@@ -26,7 +30,7 @@ export default async function RootLayout({
   return (
     <html
       // Not required, but good for SEO
-      lang="en"
+      lang="zh-Hant"
       // Required to be set
       dir="ltr"
       // Suggested by `next-themes` package https://github.com/pacocoursey/next-themes#with-app
