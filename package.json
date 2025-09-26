@@ -11,6 +11,7 @@
     "postbuild": "pagefind --site .next/server/app --output-path public/_pagefind"
   },
   "dependencies": {
+    "@next/third-parties": "^15.5.4",
     "next": "^15.5.4",
     "nextra": "^4.5.0",
     "nextra-theme-docs": "^4.5.0",

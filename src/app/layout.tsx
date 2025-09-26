@@ -3,6 +3,7 @@ import { Banner, Head } from "nextra/components";
 import { getPageMap } from "nextra/page-map";
 import "nextra-theme-docs/style.css";
 import "./globals.css";
+import { GoogleAnalytics } from "@next/third-parties/google";
 
 export const metadata = {
   // Define your metadata here
@@ -42,6 +43,7 @@ export default async function RootLayout({
         {/* Your additional tags should be passed as `children` of `<Head>` element */}
       </Head>
       <body>
+        <GoogleAnalytics gaId="G-ZD4K14S8LC" />
         <Layout
           banner={banner}
           navbar={navbar}
