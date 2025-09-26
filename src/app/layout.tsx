@@ -6,13 +6,17 @@ import "./globals.css";
 import { GoogleAnalytics } from "@next/third-parties/google";
 
 export const metadata = {
-  // Define your metadata here
-  // For more information on metadata API, see: https://nextjs.org/docs/app/building-your-application/optimizing/metadata
+  title: {
+    template: "%s | 程式貓文件",
+    default: "程式貓文件中心",
+  },
+  description:
+    "閱讀所有程式貓文件，包含更新、教學、範例等各專案的知識都匯集在這裡。",
 };
 
 const banner = (
   <Banner storageKey="tsw-1">
-    台域戰策 - 一款關於台灣的占地遊戲 上線啦！ 🎉
+    程式貓正在招募團隊夥伴 🎉
   </Banner>
 );
 const navbar = (
