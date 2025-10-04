@@ -1,5 +1,5 @@
 import { redirect } from "next/navigation";
 
 export default function RedirectPage() {
-  redirect("https://meet.google.com/");
+  redirect("https://meet.google.com/tjo-cyeg-nmb");
 }
