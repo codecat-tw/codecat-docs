@@ -14,11 +14,7 @@ export const metadata = {
     "閱讀所有程式貓文件，包含更新、教學、範例等各專案的知識都匯集在這裡。",
 };
 
-const banner = (
-  <Banner storageKey="tsw-1">
-    程式貓正在招募團隊夥伴 🎉
-  </Banner>
-);
+const banner = <Banner storageKey="tsw-1">程式貓正在招募團隊夥伴 🎉</Banner>;
 const navbar = (
   <Navbar
     logo={<b>程式貓文件中心</b>}
