@@ -14,14 +14,14 @@ export const metadata = {
     "閱讀所有程式貓文件，包含更新、教學、範例等各專案的知識都匯集在這裡。",
 };
 
-const banner = <Banner storageKey="tsw-1">程式貓正在招募團隊夥伴 🎉</Banner>;
+const banner = <Banner storageKey="2026-01-01">我們正在招募社群小編，聯繫我們了解細節 🎉</Banner>;
 const navbar = (
   <Navbar
     logo={<b>程式貓文件中心</b>}
     // ... Your additional navbar options
   />
 );
-const footer = <Footer>Copyright © 2024-2025 CodeCat team.</Footer>;
+const footer = <Footer>Copyright © 2023-2026 CodeCat team.</Footer>;
 
 export default async function RootLayout({
   children,
