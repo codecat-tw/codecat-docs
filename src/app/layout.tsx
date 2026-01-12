@@ -14,7 +14,11 @@ export const metadata = {
     "閱讀所有程式貓文件，包含更新、教學、範例等各專案的知識都匯集在這裡。",
 };
 
-const banner = <Banner storageKey="2026-01-01">我們正在招募社群小編，聯繫我們了解細節 🎉</Banner>;
+const banner = (
+  <Banner storageKey="2026-01-01">
+    我們正在招募社群小編，聯繫我們了解細節 🎉
+  </Banner>
+);
 const navbar = (
   <Navbar
     logo={<b>程式貓文件中心</b>}
@@ -48,8 +52,11 @@ export default async function RootLayout({
           banner={banner}
           navbar={navbar}
           pageMap={await getPageMap()}
-          // docsRepositoryBase="https://github.com/shuding/nextra/tree/main/docs"
+          docsRepositoryBase="https://github.com/codecat-tw/codecat-docs/tree/main/"
           footer={footer}
+          sidebar={{
+            defaultMenuCollapseLevel: 1,
+          }}
           // ... Your additional layout options
         >
           {children}
