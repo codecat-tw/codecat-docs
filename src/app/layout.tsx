@@ -2,7 +2,6 @@ import { Footer, Layout, Navbar } from "nextra-theme-docs";
 import { Banner, Head } from "nextra/components";
 import { getPageMap } from "nextra/page-map";
 import "nextra-theme-docs/style.css";
-import "./globals.css";
 import { GoogleAnalytics } from "@next/third-parties/google";
 
 export const metadata = {
@@ -40,6 +39,7 @@ export default async function RootLayout({
       dir="ltr"
       // Suggested by `next-themes` package https://github.com/pacocoursey/next-themes#with-app
       suppressHydrationWarning
+      
     >
       <Head
       // ... Your additional head options
