@@ -39,7 +39,6 @@ export default async function RootLayout({
       dir="ltr"
       // Suggested by `next-themes` package https://github.com/pacocoursey/next-themes#with-app
       suppressHydrationWarning
-      
     >
       <Head
       // ... Your additional head options
