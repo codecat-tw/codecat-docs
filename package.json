@@ -15,8 +15,8 @@
     "postbuild": "pagefind --site .next/server/app --output-path public/_pagefind"
   },
   "dependencies": {
-    "@next/third-parties": "^16.1.6",
-    "next": "^16.1.6",
+    "@next/third-parties": "16.1.7",
+    "next": "16.1.7",
     "nextra": "^4.6.1",
     "nextra-theme-docs": "^4.6.1",
     "react": "^19.2.4",
@@ -27,8 +27,8 @@
     "@types/node": "^24.10.14",
     "@types/react": "^19.2.14",
     "@types/react-dom": "^19.2.3",
-    "eslint": "^10.0.2",
-    "eslint-config-next": "^16.1.6",
+    "eslint": "^9.34.2",
+    "eslint-config-next": "16.1.7",
     "pagefind": "^1.4.0",
     "prettier": "^3.8.1",
     "prettier-plugin-tailwindcss": "^0.7.2",
