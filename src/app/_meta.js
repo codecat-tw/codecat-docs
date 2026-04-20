@@ -7,9 +7,12 @@ export default {
   "takasagos-war": {
     title: "台域戰策",
   },
+  "takastory": {
+    title: "高砂故事屋",
+  },
   "nextjs-react": {},
   "next-pwd": {},
-  "next-staticblog": {},
+  "next-posts": {},
   "next-liteprofile": {
     title: "next-liteprofile",
   },
