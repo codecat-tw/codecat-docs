@@ -6,7 +6,7 @@
 
 ## 全端框架
 
-- Next.js (使用 src 目錄)
+- Next.js App (使用 src 目錄)
 
 ## 部署服務
 
