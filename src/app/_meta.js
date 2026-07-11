@@ -11,6 +11,6 @@ export default {
   "next-pwd": {},
   "next-posts": {},
   "next-liteprofile": {
-    title: "next-liteprofile",
+    title: "next-profile-template",
   },
 };

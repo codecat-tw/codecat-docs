@@ -1,4 +1,4 @@
-# next-staticblog
+# Next Posts
 
 輕量化的 Next.js 文章載入器。快速配置即可在 Next.js 中載入 .md 的部落格文章，並支援 metadata 提取。
 
