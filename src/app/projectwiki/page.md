@@ -4,8 +4,7 @@
 
 > 計畫介紹: https://projectwiki.org/p/projectwiki
 
-> 開始使用: https://projectwiki.org
-
+> 開始使用：https://www.projectwiki.org
 ## 基本資訊
 - **專案正式名稱**：Project Wiki 專題百科
 - **專案其他名稱**：Project Wiki、專題百科
@@ -22,10 +21,22 @@
 
 
 ## 🎯 專案目標
-- **解決什麼問題？** 新型態數位創作無法變現或出售的問題
+- **解決問題點**： 新型態數位創作無法變現或出售的問題
 - **目標用戶**：數位專案創作者、小額購買者
 
 
-## 🛠 技術資訊 (選填)
+## 🛠 技術資訊 (暫無)
 - **使用技術 / 框架**：Next.js
 - **系統架構簡述**：標準程式貓架構
+- **相關 Repository 連結**：https://github.com/CPE-Guide/project-wiki-web
+
+
+## 📌 重要連結 (暫無)
+- **GitHub / GitLab 連結**：https://github.com/CPE-Guide/project-wiki-web
+- **部署網址**：https://www.projectwiki.org
+- **相關文件連結**：
+
+
+## 📝 備註 (暫無)
+- **特別說明事項**：
+- **已知問題**：
