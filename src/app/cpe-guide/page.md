@@ -40,10 +40,3 @@ Win
 ## 🛠 技術資訊 (選填)
 - **使用技術 / 框架**：Next.js
 - **系統架構簡述**：標準程式貓架構
-- **相關 Repository 連結**：https://github.com/CPE-Guide/cpe-guide-web
-
-
-
-## 📝 備註 (選填)
-- **特別說明事項**：
-- **已知問題**：
