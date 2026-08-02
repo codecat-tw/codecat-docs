@@ -22,11 +22,6 @@
 
 ## 🛠 技術資訊 
 - **使用技術 / 框架**：Next.js
-- **系統架構簡述**：不適用https://github.com/codecat-tw/nextjs-react-devclub-web
-
-
-## 📌 重要連結 (暫無)
-- **GitHub / GitLab 連結**：https://github.com/codecat-tw/nextjs-react-devclub-web
-
+- **系統架構簡述**：
 
 ## 📝 備註 (暫無)
