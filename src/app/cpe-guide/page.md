@@ -1,4 +1,6 @@
 # 📋 CPE Guide
+
+>開始使用：https://cpe.guide
 ## 基本資訊
 - **專案正式名稱**：CPE Guide
 - **專案其他名稱**：CPE 程式檢定學習平台
@@ -40,11 +42,6 @@ Win
 - **系統架構簡述**：標準程式貓架構
 - **相關 Repository 連結**：https://github.com/CPE-Guide/cpe-guide-web
 
-
-## 📌 重要連結 (選填)
-- **GitHub / GitLab 連結**：https://github.com/CPE-Guide/cpe-guide-web
-- **部署網址**：https://cpe.guide
-- **相關文件連結**：
 
 
 ## 📝 備註 (選填)
