@@ -20,6 +20,7 @@
 - Takasagos War 台域戰策
 - Next.js / React 讀書會
 - Kitopia 貓托邦
+- CodeCat AI 程式貓AI
 
 你也可以在官網的[社群專案](https://www.codecat.tw/project)頁面了解更多
 
