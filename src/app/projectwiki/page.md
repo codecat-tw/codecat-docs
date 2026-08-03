@@ -30,15 +30,6 @@
 
 - **使用技術 / 框架**：Next.js
 - **系統架構簡述**：標準程式貓架構
-- **相關 Repository 連結**：https://github.com/CPE-Guide/project-wiki-web
 
-## 📌 重要連結 (暫無)
-
-- **GitHub / GitLab 連結**：https://github.com/CPE-Guide/project-wiki-web
-- **部署網址**：https://www.projectwiki.org
-- **相關文件連結**：
 
 ## 📝 備註 (暫無)
-
-- **特別說明事項**：
-- **已知問題**：
