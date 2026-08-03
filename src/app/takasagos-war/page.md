@@ -1,4 +1,4 @@
-# 台域戰策
+# Takasago's War 台域戰策
 
 > 開始使用：https://tsw.codecat.tw
 
