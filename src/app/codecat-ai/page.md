@@ -1,4 +1,4 @@
-# Codecat AI
+# Codecat AI 程式貓AI
 
 > 開始使用：https://www.codecat.tw/chat
 
