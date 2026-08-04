@@ -1,6 +1,7 @@
 # meme迷因梗圖
 
-> 開始使用：https://www.codecat.tw
+> 前往官網：https://www.codecat.tw
+> 前往ig官方帳號(專案運行時發布地):https://www.instagram.com/codecat.tw?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==
 
 ## 基本資訊
 
