@@ -20,51 +20,51 @@
   
 - meme 迷因梗圖 ⏸️ 暫時裁撤
 - 專案主持人 YD
-- 快速前往->https://www.instagram.com/codecat.tw?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==
+- 快速前往ig官方帳號(專案運行時發布地):https://www.instagram.com/codecat.tw?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==
   
 - 程式貓科技週刊 ✅ 專案運行中
 - 專案主持人 Lhs
-- 快速前往->
+- 快速前往->https://news.codecat.tw/
   
 - Next.js / React 讀書會	⏸️ 暫時裁撤
 - 專案主持人 YD
-- 快速前往->
+- 快速前往DC頻道(實體及線上活動以DC連結替代)->https://discord.gg/5S9DCMaHnX
   
 - Project Wiki 專題百科 ✅ 專案運行中
 - 專案主持人 YD
-- 快速前往->
+- 快速前往->https://www.projectwiki.org
   
 - CPE Guide ✅ 專案運行中
 - 專案主持人 YD
-- 快速前往->
+- 快速前往->https://cpe.guide
   
 - 台域戰策 ✅ 專案運行中
 - 專案主持人 玥楓
-- 快速前往->
+- 快速前往->https://tsw.codecat.tw
   
 - CodeCat AI ✅ 專案運行中
 - 專案主持人 玥楓
-- 快速前往->
+- 快速前往->https://www.codecat.tw/chat
   
 - 台域戰策：最後指令	🚧 開發中
 - 專案主持人 minchung
-- 快速前往->
+- 快速前往->(暫無)
   
 - CatClass	🚧 開發中
 - 專案主持人 Lhs
-- 快速前往->
+- 快速前往->https://class.codecat.tw/
   
 - Lightless	🚧 開發中
 - 專案主持人 Alan
-- 快速前往->
+- 快速前往->(暫無)
   
 - CodeNeko	🚧 開發中
 - 專案主持人 KH
-- 快速前往->
+- 快速前往->(暫無)
   
 - 專案管理器	🚧 開發中
 - 專案主持人 游錐
-- 快速前往->
+- 快速前往->(暫不公開)
   
 
 你也可以在官網的[社群專案](https://www.codecat.tw/project)頁面了解更多
