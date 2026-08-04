@@ -20,8 +20,7 @@
   
 - meme 迷因梗圖 ⏸️ 暫時裁撤
 - 專案主持人 YD
-- 快速前往ig官方帳號(專案運行時發布地):https://www.instagram.com/codecat.tw?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==
-  
+- 快速前往ig官方帳號(專案運行時發布地):https://www.instagram.com/codecat.tw
 - 程式貓科技週刊 ✅ 專案運行中
 - 專案主持人 Lhs
 - 快速前往->https://news.codecat.tw/
