@@ -16,11 +16,11 @@
 
 - Kitopia 貓托邦 🔀 已與 CodeNeko 合併
 - 專案主持人 YD
-- 快速前往->
+- 快速前往->https://discord.com/oauth2/authorize?client_id=1362084143915208857
   
 - meme 迷因梗圖 ⏸️ 暫時裁撤
 - 專案主持人 YD
-- 快速前往->
+- 快速前往->https://www.instagram.com/codecat.tw?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==
   
 - 程式貓科技週刊 ✅ 專案運行中
 - 專案主持人 Lhs
