@@ -22,10 +22,22 @@
 - **解決問題點**： 沒有解決任何問題
 - **目標用戶**：想要一起玩 RPG 的人、消遣
 
-## 🛠 技術資訊 (暫無)
+## 🛠 技術資訊
 
 - **使用技術 / 框架**：Discord.py
 - **系統架構簡述**：Cogs 熱重載、斜線指令支援
-- **相關 Repository 連結**：https://github.com/codecat-tw/kitopia
 
 ## 📝 備註 (暫無)
+
+## 關鍵字(提供 CodeCat AI 搜尋使用)
+-Discord機器人
+-模擬經營
+-RPG
+-Kitopia
+-貓托邦
+-Discord.py
+-貓托邦社群
+-虛擬互動
+-成員交流
+-趣味專案
+-貓咪
